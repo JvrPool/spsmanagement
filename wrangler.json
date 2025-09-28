@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "spsmanagement",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b5524952-4af7-4673-80ce-1f85a79a5d36",
+      "database_name": "spsManagement"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
